@@ -6,7 +6,10 @@
 	power - to calculate X Y and store in R
 	display- to display Result R */
 
-
+cgjncgjngd
+fghncgjn
+hjcfj
+gvfjfv
 import java.util.Scanner;
 public class Math_Operation{
 	private int x,y,r;

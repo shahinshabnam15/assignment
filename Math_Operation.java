@@ -32,7 +32,10 @@ public class Math_Operation{
 		for(int i=1;i<=y;i++)
 				r=r*x;
 	}
-	
+	void percentage()
+{
+r=((x+y)/100)*100
+}
 
 	public void display()
 	{
@@ -48,5 +51,6 @@ public class Math_Operation{
 		m.display();
 		m.power();
 		m.display();
+m.percentage();
 	}
 }
